@@ -1,0 +1,14 @@
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\bin\Debug\netcoreapp2.2\WebAPI_J.deps.json
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\bin\Debug\netcoreapp2.2\WebAPI_J.runtimeconfig.json
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\bin\Debug\netcoreapp2.2\WebAPI_J.runtimeconfig.dev.json
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\bin\Debug\netcoreapp2.2\WebAPI_J.dll
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\bin\Debug\netcoreapp2.2\WebAPI_J.pdb
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.RazorAssemblyInfo.cache
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.RazorAssemblyInfo.cs
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.AssemblyInfoInputs.cache
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.AssemblyInfo.cs
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.RazorTargetAssemblyInfo.cache
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.dll
+C:\Users\Pat\Desktop\Own_Project\JWT_Angular7\WebAPI_J\WebAPI_J\obj\Debug\netcoreapp2.2\WebAPI_J.pdb
